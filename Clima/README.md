@@ -27,6 +27,9 @@ By the end of the module, you will have made a beautiful, dark-mode enabled weat
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
 
+### How to use
+In Clima > Model > WeatherManager.swift, insert your API key from OpenWeatherMap: https://openweathermap.org/ into the URL. Afterwards, run the app on an iOS device or one of the iOS simulators.
+
 ### Condition Codes
 ```
 switch conditionID {
