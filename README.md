@@ -1,4 +1,6 @@
 # Projects
+Clima: Get live weather data from your current location or a city of your choice!
+
 Dicee: An app where you can roll 2 dice, just like in real life
 
 Destini: A choose-your-own-adventure app
